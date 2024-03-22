@@ -1,6 +1,6 @@
 package java101;
 import java.util.Scanner;
-public class Java101 {
+public class Hipotenus{
    
     //DİK ÜÇGENDE HİPOTENÜS BULAN PROGRAM
 
