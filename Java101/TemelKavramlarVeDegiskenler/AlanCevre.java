@@ -1,6 +1,6 @@
 package java101;
 import java.util.Scanner;
-public class Java101 {
+public class AlanCevre {
     //DAİRENİN ALANINI VE ÇEVRESİNİ HESAPLAYAN PROGRAM
     //Java ile yarı çapını kullanıcıdan aldığınız dairenin alanını ve çevresini hesaplayan programı yazın.
     //Alan Formülü : π * r * r;
