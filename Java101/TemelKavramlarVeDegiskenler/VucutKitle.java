@@ -1,6 +1,6 @@
 package java101;
 import java.util.Scanner;
-public class Java101 {
+public class VucutKitle {
     
     //Java ile kullanıcıdan boy ve kilo değerlerini alıp bir değişkene atayın.
     //Aşağıdaki formüle göre kullanıcının "Vücut Kitle İndeks" değerini hesaplayıp ekrana yazdırın.
