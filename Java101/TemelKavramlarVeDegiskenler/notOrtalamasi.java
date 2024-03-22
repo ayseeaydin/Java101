@@ -1,6 +1,6 @@
 package java101;
 import java.util.Scanner;
-public class Java101 {
+public class notOrtalamasi {
    
     public static void main(String[] args) {
         Scanner inp = new Scanner(System.in);
