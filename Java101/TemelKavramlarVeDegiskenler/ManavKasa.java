@@ -1,6 +1,6 @@
 package java101;
 import java.util.Scanner;
-public class Java101 {
+public class ManavKasa {
 
     // Java ile kullanıcıların manavdan almış oldukları ürünlerin kilogram değerlerine 
     // göre toplam tutarını ekrana yazdıran programı yazın.
