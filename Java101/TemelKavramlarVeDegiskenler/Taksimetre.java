@@ -1,6 +1,6 @@
 package java101;
 import java.util.Scanner;
-public class Java101 {
+public class Taksimetre {
    // TAKSİMETRE HESAPLAYAN PROGRAM
     
    //Java ile gidilen mesafeye (KM) göre taksimetre tutarını ekrana yazdıran programı yazın.
