@@ -1,6 +1,6 @@
 package java101;
 import java.util.Scanner;
-public class Java101 {
+public class KdvTutari {
     
     //Java ile kullanıcıdan alınan para değerinin KDV'li fiyatını ve KDV tutarını hesaplayıp ekrana bastıran programı yazın.
     //(Not : KDV tutarını 18% olarak alın)
