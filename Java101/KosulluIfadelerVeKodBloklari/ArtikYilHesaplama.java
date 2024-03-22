@@ -22,7 +22,7 @@ package java101;
 
 import java.util.Scanner;
 
-public class Java101 {
+public class ArtikYilHesaplama {
 
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
