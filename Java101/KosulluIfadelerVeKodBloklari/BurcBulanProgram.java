@@ -16,7 +16,7 @@ package java101;
 
 import java.util.Scanner;
 
-public class Java101 {
+public class BurcBulanProgram {
 
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
