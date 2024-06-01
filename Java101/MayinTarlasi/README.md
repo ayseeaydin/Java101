@@ -1,4 +1,4 @@
-#Mayın Tarlası Oyunu
+# Mayın Tarlası Oyunu
 
 Java dilinde Mayın Tarlası oyunu yapıyoruz.
 
